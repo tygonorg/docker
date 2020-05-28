@@ -1,0 +1,11 @@
+{
+  "name": "webspa.com",
+  "version": "1.0.0",
+  "description": "Spa Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tran Phuoc Hung",
+  "license": "ISC"
+}
